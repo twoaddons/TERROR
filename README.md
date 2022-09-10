@@ -9,6 +9,32 @@ magnet:?xt=urn:btih:bdd35d2ec7d867f826a8bdd8b5e472b002eafab3</link>
 </item> 
 
 <item>
+<title>[COLOR silver][B]  Halloween Kills - O Terror Continua [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5XCIGPB3VPIJC2QKFNXV7BQ6X3F2JKB2</link>
+<thumbnail>https://baixakifilmes.net/uploads/32/79152014863108a21e29e2.jpg</thumbnail>
+<fanart></fanart>
+<info> Depois de quatro décadas se preparando para enfrentar Michael Myers, Laurie Strode acredita que enfim venceu. Porém, ela é surpreendida pelo retorno de seu grande inimigo em um novo desdobramento de mais um capítulo na saga Halloween.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+
+
+<item>
 <title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
